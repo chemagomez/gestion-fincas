@@ -3,8 +3,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>gestion-fincas-gestibono</artifactId>
-    <packaging>war</packaging>
+    <artifactId>gestion-fincas</artifactId>
+    <packaging>jar</packaging>
     <name>Gestion de Fincas</name>
     <description>Gestion de fincas Gesdibono</description>    
     <version>1.0</version>
